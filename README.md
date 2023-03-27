@@ -1,4 +1,4 @@
-# Hi there https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif
+# Hi there [hand waving hello!](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <!--
 **joshuagoeke/joshuagoeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
