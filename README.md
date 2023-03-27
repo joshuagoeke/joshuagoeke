@@ -11,13 +11,31 @@ Just completed an intensive 3-month programming bootcamp through the University 
 * 💼 Open to work!
 * 🤓 I am licensed to carry dad jokes. I also collect them, so please share!
 
-### **Skills**
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;">
+## **SKILLS**
 
+### **Languages**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,mysql,graphql,python,r" alt="javascript,html,css,mysql,graphql,python,r" />
+  </a>
+</p>
+
+### **Packages I'm Packin'!**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,jquery,sequelize,regex,materialui" />
+  </a>
+</p>
+
+### **Familiar Tools**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,heroku,apollo,vscode,figma" />
+  </a>
+</p>
 </br>
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuagoeke&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuagoeke&show_icons=true&theme=dark)  
