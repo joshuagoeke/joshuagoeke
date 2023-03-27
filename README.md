@@ -7,7 +7,7 @@ Just completed an intensive 3-month programming bootcamp through the University 
 * 🗺️ Located in Springfield, MO (Central Standard Time)
 * 📧 Send me an email at joshuagoeke@gmail.com
 * 🤝 Would love to collaborate on your MERN project!
-* 📊 I enjoy data analysis.
+* 📊 I enjoy data analysis, and love helping people understand the numbers.
 * 💼 Open to work!
 * 🤓 I am licensed to carry dad jokes. I also collect them, so please share!
 
