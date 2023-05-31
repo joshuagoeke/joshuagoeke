@@ -38,4 +38,4 @@ Just completed an intensive 3-month programming bootcamp through the University 
 
 
 
-![GitHub stats](https://github-readme-stats-joshuagoeke.vercel.app/api?username=joshuagoeke&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats-1-joshuagoeke.vercel.app/api?username=joshuagoeke&show_icons=true&theme=dark)  
